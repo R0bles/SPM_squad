@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="SPM">
+    <name>Spain Policia Militar</name>
+    <email>robles@probles.es</email>
+    <web>https://units.arma3.com/unit/spm</web>
+    <picture>93e184482574b7081aa63d39e3392d0b.paa</picture>
+    <title>Spain Policia Militar</title>
+            <member id="76561197985687992" nick="Robles">
+            <name>Pedro Robles</name>
+            <email>N/A</email>
+            <icq>N/A</icq>
+            <remark>N/A</remark>
+        </member>
+    </squad>
